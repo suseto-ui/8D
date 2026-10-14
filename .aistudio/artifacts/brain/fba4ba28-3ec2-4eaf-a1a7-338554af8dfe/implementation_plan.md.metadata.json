@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementační plán pro integraci Dialektické Multi-Agentní Arény s konsenzem přímo do panelu Mission Control Kokpitu v O.M.N.I.S. v4.2. Zahrnuje interaktivní arénu s rychlým spuštěním duelů archetypů, živým vyhodnocením kol (teze/antiteze/křížové námitky/syntéza), metrikou konsenzu a divergence, ZK-SNARK ověřením a přenosem syntézy do kognitivního chatu.",
+  "updatedAt":  "2026-10-09T23:43:04.818520179Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

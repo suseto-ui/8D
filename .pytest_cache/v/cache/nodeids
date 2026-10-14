@@ -1,0 +1,15 @@
+[
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_consequence_risk_forensics_direct",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_master_orchestrator_assembly",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_phase_1_semantic_deconstruction",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_phase_2_transdisciplinary_crossing",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_phase_3_immediate_action_plan",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_phase_4_deterministic_execution",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_phase_5_impact_matrix_and_reflection",
+  "backend/test_omnis_phases.py::TestOmnisFivePhases::test_token_telemetry_service",
+  "backend/test_routers.py::test_aggregated_routers_are_mounted",
+  "backend/test_routers.py::test_gemini_api_outage_zero_simulation_fallback",
+  "backend/test_routers.py::test_secret_masking_integrity",
+  "backend/test_routers.py::test_spa_fallback_routing_logic",
+  "backend/test_routers.py::test_system_router_health"
+]
